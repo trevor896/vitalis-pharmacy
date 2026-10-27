@@ -1,0 +1,4 @@
+# The website uses the local logos collection; keep the rest of the full
+# Iconify library in the workspace without publishing unused datasets.
+assets/iconify-icons/data/json/*
+!assets/iconify-icons/data/json/logos.json
