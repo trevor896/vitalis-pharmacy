@@ -24,6 +24,8 @@ Then open `http://localhost:8000`.
 
 The GitHub Actions workflow in `.github/workflows/pages.yml` publishes this
 directory to GitHub Pages whenever changes are pushed to `main`.
+The published site is available at
+<https://trevor896.github.io/vitalis-pharmacy/>.
 
 The full Iconify JSON library is kept in the development workspace. This
 repository includes only `logos.json`, the collection used by the website, to
